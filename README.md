@@ -233,28 +233,10 @@ The framework supports:
 - GAN loss (vanilla or LSGAN)
 - Multi-scale GAN loss
 
-## 📝 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{ddstainer2024,
-  title={DDStainer: Towards Virtual Staining via Dual Decoder Network},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024}
-}
-```
-
-## 📄 License
-
-[Specify your license here]
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
 
-[Your contact information]
 
