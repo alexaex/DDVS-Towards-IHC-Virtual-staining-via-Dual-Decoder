@@ -242,5 +242,20 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Acknowledgement
 I acknowledge the high-quality code contributions from Meta's [Mask2Former](https://github.com/facebookresearch/Mask2Former), [DDColor](https://github.com/piddnad/DDColor/tree/master), and [APISR](https://github.com/Kiteretsu77/APISR/tree/main). I highly recommend these excellent works for universal segmentation, automatic image colorization, and anime image super-resolution.
 
+Moreover, I appreciate the high-quality IHC virtual staining dataset [HER2MATCH](https://arxiv.org/pdf/2506.18484). If you use this dataset, please cite their work with the following BibTeX:
+```
+@inbook{Kl_ckner_2025,
+   title={GANs vs. Diffusion Models for Virtual Staining with the HER2match Dataset},
+   ISBN={9783032054722},
+   ISSN={1611-3349},
+   url={http://dx.doi.org/10.1007/978-3-032-05472-2_12},
+   DOI={10.1007/978-3-032-05472-2_12},
+   booktitle={Deep Generative Models},
+   publisher={Springer Nature Switzerland},
+   author={Klöckner, Pascal and Teixeira, José and Montezuma, Diana and Cardoso, Jaime S. and Horlings, Hugo M. and Oliveira, Sara P.},
+   year={2025},
+   month=sep, pages={120–130} }
+```
+
 
 
