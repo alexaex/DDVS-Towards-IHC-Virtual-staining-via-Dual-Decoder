@@ -236,7 +236,11 @@ The framework supports:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request.\
+
+
+## Acknowledgement
+I acknowledge the high-quality code contributions from Meta's [Mask2Former](https://github.com/facebookresearch/Mask2Former), [DDColor](https://github.com/piddnad/DDColor/tree/master), and [APISR](https://github.com/Kiteretsu77/APISR/tree/main). I highly recommend these excellent works for universal segmentation, automatic image colorization, and anime image super-resolution.
 
 
 
